@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1726214795 source:c:\users\hp\desktop\nouveau dossier\sas-youcodee\main.c
+	"functions.h"
+
+1726174758 c:\users\hp\desktop\nouveau dossier\sas-youcodee\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1726214639 source:c:\users\hp\desktop\nouveau dossier\sas-youcodee\project.c
+	"functions.h"
+
